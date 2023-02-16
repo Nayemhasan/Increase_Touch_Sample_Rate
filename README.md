@@ -1,5 +1,4 @@
  ## Increase_Touch_Sample_Rate
- Force increase touch sample rate
  Simple module to increase the touch sampling rate ranging from 60hz displays to 120hz displays to give you more of smoother experences while `typing` and `gaming` in old devices and some newer ones too.
  
  ## What does it changes:
