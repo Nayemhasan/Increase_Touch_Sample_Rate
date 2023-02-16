@@ -9,12 +9,7 @@
     user_refresh_rate=60-120
     touch.pressure.scale=0.001
     af.resampler.quality=255
-    ```
-
-
-  
-
-
+  ```
  ## How to install:
  1. Download the latest [release](https://github.com/Nayemhasan/Increase_Touch_Sample_Rate/releases/tag/V.1) according to your phones display `refreshrate`.
  2. Flash in Magisk.
